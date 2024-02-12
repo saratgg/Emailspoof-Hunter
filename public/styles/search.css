@@ -1,0 +1,25 @@
+#search{
+    margin: 25rem auto 28rem auto;
+    width: 80%;
+    height: 100%;
+}
+.input-group{
+    border-radius: 3px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.13);
+    height: 4rem;
+    width: 40rem;
+    margin: auto;
+}
+#form-control{
+    font-size: 3rem;
+}
+
+.navbar-brand{
+    font-size: 2.5rem ;
+}
+#message{
+    font-size: 2rem;
+    text-align: left;
+    padding-top: 20px;
+    font-weight: bold;
+}
